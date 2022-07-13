@@ -89,6 +89,6 @@ function init() {
 				break;
 
 		}
-		}
+	}
 }
-window.onload = init;	
+window.onload = init;
